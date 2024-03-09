@@ -1,4 +1,4 @@
-package com.example.encryptedsharedprefdemo
+package com.example.encryptedsharedprefdemo.util
 
 import android.content.Context
 import android.content.SharedPreferences

@@ -1,6 +1,7 @@
-package com.example.encryptedsharedprefdemo
+package com.example.encryptedsharedprefdemo.di
 
 import android.content.SharedPreferences
+import com.example.encryptedsharedprefdemo.util.EncryptSharedPrefManager
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
